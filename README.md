@@ -1,4 +1,4 @@
-# PYPYPYTHON
+# PYTHON
 Just to learn python 
 To practice python
 to build in pyhton
